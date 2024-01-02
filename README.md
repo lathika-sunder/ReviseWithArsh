@@ -26,7 +26,11 @@ I will be solving a total of 90 questions over 30 days, with 15 questions per co
 
 ### Company 1: Goldman Sachs ( Not Yet Completed)
 
-![1. Minimize the Maximum of Two Arrays](./MinimizeTheMaximumOfTwoArrays/solution.java)
+[1. Minimize the Maximum of Two Arrays](./MinimizeTheMaximumOfTwoArrays/solution.java)
+<<<<<<< HEAD
+[2.Employee Access System](./EmployeeAccessSystem/solution.java)
+=======
+>>>>>>> e9f6c45c5c38499c6223c5c9dda6fcda8e68774e
 
 ### Company 2: [To be updated]
 
